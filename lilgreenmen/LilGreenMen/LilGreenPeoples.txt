@@ -1,0 +1,83 @@
+LIL GREEN MEN
+
+2 ambedextrous lil kids stumble into an armoury where a small war amongst the guards is in progress.
+It's all fun and games til' someone gets hurt!
+
+Objective:
+Eliminate the other lil' kid
+
+K = knockable(deflectable with punch)
+
+Holdables:
+Uzi - Pretty conventional   
+Rifle - can knock off weapons
+Stun gun - temporarily stuns enemies
+Target - summons airstrike on your position so keep moving!
+Flamethrower - nasty but be careful or you'll burn yourself
+LAW - similar to the infamous bazooka
+Throwing knife - damage decreases with range K
+Tranquilizer knife - throwing knife but less damage and lots of tranq K
+Molotov cocktail - Sets things on fire K
+Medikit - heals and repairs broken arms(except if the arm got broken           due to holding an exploding molotov cocktail) 
+Grenade - 4 beep timer, count your beeps properly! K
+Fire extiguisher - puts out fire
+
+Vehicles:
+Hover tank - pitiful tank which can't squash
+Flame tank - medium speed, can squash, okay weapon and immune to fire
+Armoured car - good at squashing, tough and okay speed
+Trike - super fast, cannot squash and blow up very easily
+
+Other stuff:
+Oil spills - flammable and slippery
+Red guard - he's a guard and he's red
+Blue guard - he's a guard and he's blue
+Player 1 - greenish lil kid
+Player 2 - purplish lil kid
+
+Damage:
+
+Damage can cause your arms to become broken
+Your arms might also become broken without damage to your body
+example: You get shot in the arm repeatedly with a rifle.
+
+You can also go on fire, the only way to solve this is to use a fire extinguisher or stun gun(the stun shots turn into fire-extinguishing water when it hits fire)
+
+Broken arms caused by holding an exploding molotov cocktail cannot be healed.
+
+Therefore, if you lose both your arms(and therefore cannot hold a medi kit) your only alternative is to run over the opponent with a vehicle or (ha ha)punch him to death. 
+
+Weapon holding:
+
+Players can hold 2 weapons(you're ambidextrous) but guards can only hold one.
+
+Controls:
+
+				Player 1	Player 2
+Walk				arrow keys	w,s,a,d
+Use left hand			*		~`
+Use right hand			-		1
+Punch				/		Tab
+Drop left object		numpad 0	2
+Drop right object		.		3
+Use vehicle/vehicle weapon	numpad 7	q
+Get out of vehicle		numpad 9	e
+Toggle vehicle engine		numpad +	4
+
+* medikit usage is automatic
+
+Map modifying controls:
+
+Right click	Change type of object to be placed
+C		Place object
+Left click	Change brush colour
+X		Paint floor using chosen colour
+Z		Paint oil slick using chosen colour
+Q		Overlap backdrop 1
+E		Overlap backdrop 2
+M		Cancel overlaps(do this before pressing escape)
+Escape		Start game
+B		Insert overlap as normal floor
+N		Insert overlap as oil slick			
+
+
